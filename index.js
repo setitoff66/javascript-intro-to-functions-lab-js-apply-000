@@ -31,5 +31,6 @@ function sayHiToGrandma(string) {
   if (string.toUpperCase(YES, OF COURSE!) === string){
     return '';
   }
+  
 }
 
